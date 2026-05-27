@@ -1,0 +1,10 @@
+.header{
+    position: sticky;
+    margin-top: 0;
+    background-color: black
+}
+
+.header h2 {
+    color:whitesmoke
+
+}
